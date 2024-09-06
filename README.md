@@ -1,1 +1,2 @@
 # golang-errors
+TESTRANDOMTEXT
